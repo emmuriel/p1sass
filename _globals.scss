@@ -3,3 +3,14 @@ body {
     margin: 0;
     background-color: $bgcolor;
 }
+header{
+    
+    background-color:rgb(19, 51, 43);
+    height: 15vh;
+    border: solid 1px $bordes;
+}
+footer{
+    background-color: rgb(19, 51, 43);
+    height: 15vh;
+    margin: 0;
+}

@@ -5,3 +5,17 @@ body {
   color: $texto;
 
 }
+main{
+ul {
+    list-style-type: none;
+}
+
+//Vamos a hacer un for... acuerdate de la @@@@@@
+@for $i from 1 through 10{
+    ul li:nth-child(#{$i}){
+        color: lighten($base-color, $i*5%);
+    }
+}
+}
+
+//header{}
