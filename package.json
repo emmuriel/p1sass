@@ -1,0 +1,19 @@
+{
+  "name": "p1sass",
+  "version": "1.0.0",
+  "description": "Primer proyecto de interfaces con Pilar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmuriel/p1sass.git"
+  },
+  "author": "emmuriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmuriel/p1sass/issues"
+  },
+  "homepage": "https://github.com/emmuriel/p1sass#readme"
+}
